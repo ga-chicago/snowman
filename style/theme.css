@@ -1,21 +1,34 @@
 header {
-
+  position: absolute;
+  height: 558px;
+  width: 375px;
+  background: url('http://i.imgur.com/7eXQT27.png');
 }
 
 nav {
-
+  position: absolute;
+  height: 558px;
+  width: 375px;
+  background: url('http://i.imgur.com/LbhcZQe.png');
 }
 
 section {
-
+  position: absolute;
+  height: 558px;
+  width: 375px;
+  background: url('http://i.imgur.com/0OLBvwZ.png');
 }
 
 aside {
-
-
+  position: absolute;
+  height: 558px;
+  width: 375px;
+  background: url('http://i.imgur.com/n4CCnFH.png');
 }
 
 footer {
-
-  
+  position: absolute;
+  height: 558px;
+  width: 375px;
+  background: url('http://i.imgur.com/LlG4j3V.png');
 }
